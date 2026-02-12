@@ -113,7 +113,7 @@ export function HeroSection() {
 
       {/* Floating Instagram Button */}
       <a 
-        href="https://instagram.com/yourhandle"
+        href="https://www.instagram.com/mangrovespot/"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed right-2 bottom-16 z-50 group"
