@@ -144,10 +144,10 @@ export function HeroSection() {
             loop
             playsInline
             className="w-full h-full object-cover"
-            poster="/bg1.png"
+            poster="./bg1.png"
           >
             <source
-              src="/bg.mp4"
+              src="./bg.mp4"
               type="video/mp4"
             />
           </video>
