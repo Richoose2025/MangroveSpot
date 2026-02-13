@@ -13,7 +13,7 @@ const activities = [
     duration: '2 hours',
     price: '₹700',
     priceNote: 'per person',
-    image: '/Mangrove-Kayaking.jpg',
+    image: './Mangrove-Kayaking.jpg',
     popular: true,
   },
   {
@@ -25,7 +25,7 @@ const activities = [
     price: '₹1700',
     priceNote:
       '1–2 persons | Extra person ₹250 per head (Pre-book customers only)',
-    image: '/Country-Boat.png',
+    image: './Country-Boat.png',
   },
   {
     id: 3,
@@ -35,7 +35,7 @@ const activities = [
     duration: 'Varies',
     price: '₹3500',
     priceNote: '1–5 persons',
-    image: '/hight.jpg',
+    image: './hight.jpg',
   },
   {
     id: 4,
@@ -45,7 +45,7 @@ const activities = [
     duration: '1–4 hours',
     price: '₹2000',
     priceNote: '1–4 persons | Extra ₹350 per head (additional)',
-    image: '/semi.jpg',
+    image: './semi.jpg',
   },
   {
     id: 5,
@@ -55,7 +55,7 @@ const activities = [
     duration: '15 minutes',
     price: '₹300',
     priceNote: 'per person (Minimum 2 persons required)',
-    image: '/Coracle-Ride.jpg',
+    image: './Coracle-Ride.jpg',
   },
   {
     id: 6,
@@ -65,7 +65,7 @@ const activities = [
     duration: '2 hours',
     price: '₹1000',
     priceNote: 'per person',
-    image: '/stand.jpg',
+    image: './stand.jpg',
   },
   {
     id: 7,
@@ -75,7 +75,7 @@ const activities = [
     duration: 'Session based',
     price: '₹150',
     priceNote: 'per person (Minimum 10 persons required)',
-    image: '/rain1.jpg',
+    image: './rain1.jpg',
   },
   {
     id: 8,
@@ -85,7 +85,7 @@ const activities = [
     duration: '5 chances',
     price: '₹150',
     priceNote: 'per person (5 chances)',
-    image: '/arch.jpg',
+    image: './arch.jpg',
   },
   {
     id: 9,
@@ -94,7 +94,7 @@ const activities = [
     duration: '1 round',
     price: '₹300',
     priceNote: 'per person',
-    image: '/ATV-Ride.jpg',
+    image: './ATV-Ride.jpg',
   },
   {
     id: 10,
@@ -104,7 +104,7 @@ const activities = [
     duration: 'Short session',
     price: '₹500',
     priceNote: 'per person (Minimum 2 persons required)',
-    image: '/BumperSofaRide1.jpg',
+    image: './BumperSofaRide1.jpg',
   },
   {
     id: 11,
