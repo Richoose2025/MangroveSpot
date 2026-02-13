@@ -39,32 +39,32 @@ import Image from 'next/image'
 const galleryImages = [
   {
     id: 1,
-    src: 'https://images.unsplash.com/photo-1596422846543-75c6fc197f07',
+    src: '/hight.jpg',
     alt: 'Kayaking in Kerala mangrove backwaters',
   },
   {
     id: 2,
-    src: 'https://images.unsplash.com/photo-1602216056096-3b40cc0c9944',
+    src: '/ATV-Ride.jpg',
     alt: 'Traditional Kerala country boat in backwaters',
   },
   {
     id: 3,
-    src: 'https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1',
+    src: '/BumperSofaRide1.jpg',
     alt: 'Backwater cruise surrounded by coconut trees',
   },
   {
     id: 4,
-    src: 'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee',
+    src: '/arch.jpg',
     alt: 'Sunrise over Kerala tropical waterway',
   },
   {
     id: 5,
-    src: 'https://images.unsplash.com/photo-1563729784474-d77dbb933a9e',
+    src: '/Mangrove-kayaking.jpg',
     alt: 'Coracle ride experience in calm waters',
   },
   {
     id: 6,
-    src: 'https://images.unsplash.com/photo-1592194996308-7b43878e84a6',
+    src: '/stand.jpg',
     alt: 'ATV off-road adventure near riverside',
   },
 ]

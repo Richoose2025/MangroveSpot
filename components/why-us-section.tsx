@@ -5,7 +5,7 @@ import { CheckCircle, Shield, Award, TrendingDown } from 'lucide-react'
 const features = [
   {
     icon: Award,
-    title: 'Certified Guides',
+    title: 'Expert Guides',
     description: 'Expert and licensed guides with years of experience',
   },
   {
