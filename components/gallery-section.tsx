@@ -1,7 +1,5 @@
 'use client'
-
 import Image from 'next/image'
-
 // const galleryImages = [
 //   {
 //     id: 1,
@@ -34,8 +32,6 @@ import Image from 'next/image'
 //     alt: 'Professional guide with tourists',
 //   },
 // ]
-
-
 const galleryImages = [
   {
     id: 1,

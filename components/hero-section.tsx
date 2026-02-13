@@ -160,8 +160,10 @@ export function HeroSection() {
         <div className="relative h-full flex flex-col items-center justify-center text-center px-4 sm:px-6 lg:px-8">
           <div className="space-y-6 max-w-2xl mx-auto">
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white text-balance">
-              Explore Varkala&apos;s Hidden Mangroves
-            </h1>
+  Explore the Mangrove Sport Adventures
+</h1>
+
+
 
             <p className="text-xl sm:text-2xl text-gray-100">
               Kayaking • Country Boat Ride • Stand Up Paddling • Coracle Ride
