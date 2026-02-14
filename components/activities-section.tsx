@@ -32,17 +32,17 @@ const activities = [
     name: 'High Speed Engine',
     description:
       'Exciting high-speed engine boat ride for thrill seekers.',
-    duration: 'Varies',
+    duration: '30 minutes',
     price: '₹3500',
     priceNote: '1–5 persons',
-    image: './hight.jpg',
+    image: './boat.jpg',
   },
   {
     id: 4,
     name: 'Semi Engine Boat',
     description:
       'Comfortable semi-engine boat ride perfect for families.',
-    duration: '1–4 hours',
+    duration: '30 minutes',
     price: '₹2000',
     priceNote: '1–4 persons | Extra ₹350 per head (additional)',
     image: './semi.jpg',
@@ -98,7 +98,7 @@ const activities = [
   },
   {
     id: 10,
-    name: 'Bumper Ride / Soft Ride',
+    name: 'Bumper Ride / Sofa Ride',
     description:
       'Exciting water bumper ride experience.',
     duration: 'Short session',

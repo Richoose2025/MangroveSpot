@@ -10,7 +10,7 @@ export function HeroSection() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
   const [showCallPopup, setShowCallPopup] = useState(false)
   const popupRef = useRef<HTMLDivElement>(null)
-
+  
   const phoneNumbers = [
     "9496141619",
     "7561001268",
