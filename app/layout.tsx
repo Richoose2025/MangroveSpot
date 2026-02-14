@@ -7,9 +7,9 @@ const poppins = Poppins({ subsets: ['latin'], weight: ['400', '600', '700'] })
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'MangroveSpot Varkala - Premium Eco-Adventure Kayaking & Water Sports',
-  description: 'Experience premium eco-tourism adventures in Varkala. Kayaking, stand-up paddling, country boat rides, and coracle experiences through mangrove forests.',
-  generator: 'v0.app',
+  title: 'MangroveSpot Adventures - Premium Eco-Adventure Kayaking & Water Sports',
+  description: ' Kayaking, stand-up paddling, country boat rides, and coracle experiences through mangrove forests. Experience premium eco-tourism adventures in Varkala.',
+  generator: 'Adarsh',
 }
 
 export default function RootLayout({
