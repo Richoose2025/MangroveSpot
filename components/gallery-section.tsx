@@ -60,7 +60,7 @@ const galleryImages = [
   },
   {
     id: 6,
-    src: '/stand.jpg',
+    src: './stand.jpg',
     alt: 'ATV off-road adventure near riverside',
   },
 ]
