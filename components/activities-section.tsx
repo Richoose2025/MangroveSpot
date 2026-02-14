@@ -116,8 +116,20 @@ const activities = [
     priceNote:
       'Student group special discount applicable',
     image:
-      'https://images.unsplash.com/photo-1602216056096-3b40cc0c9944',
+      './combo.png',
   },
+  {
+  id: 12,
+  name: 'Student Special Offer',
+  description:
+    'Exclusive special offers and discounts available for school and college student groups.',
+  duration: 'Group Booking',
+  price: 'Special Discount',
+  priceNote:
+    'Valid ID required • Minimum group booking applicable',
+  image: './student-offer.jpg', // Add your image inside public folder
+},
+
 ]
 
 export function ActivitiesSection() {
