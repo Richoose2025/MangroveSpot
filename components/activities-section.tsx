@@ -45,7 +45,7 @@ const activities = [
     duration: '30 minutes',
     price: '₹2000',
     priceNote: '1–4 persons | Extra ₹350 per head (additional)',
-    image: './semi.jpg',
+    image: './sboat.jpg',
   },
   {
     id: 5,
