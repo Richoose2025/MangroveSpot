@@ -55,7 +55,7 @@ const galleryImages = [
   },
   {
     id: 5,
-    src: './Mangrove-kayaking.jpg',
+    src: './Mangrove-kayaking1.jpg',
     alt: 'Coracle ride experience in calm waters',
   },
   {
