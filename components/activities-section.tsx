@@ -13,7 +13,7 @@ const activities = [
     duration: '2 hours',
     price: '₹700',
     priceNote: 'per person',
-    image: '/Mangrove-Kayaking.jpg',
+    image: './Mangrove-Kayaking.jpg',
     popular: true,
   },
   {
