@@ -35,7 +35,7 @@ const activities = [
     duration: '30 minutes',
     price: '₹3500',
     priceNote: '1–5 persons',
-    image: './boat.jpg',
+    image: './boat.png',
   },
   {
     id: 4,
