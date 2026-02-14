@@ -35,27 +35,27 @@ import Image from 'next/image'
 const galleryImages = [
   {
     id: 1,
-    src: '/hight.jpg',
+    src: './hight.jpg',
     alt: 'Kayaking in Kerala mangrove backwaters',
   },
   {
     id: 2,
-    src: '/ATV-Ride.jpg',
+    src: './ATV-Ride.jpg',
     alt: 'Traditional Kerala country boat in backwaters',
   },
   {
     id: 3,
-    src: '/BumperSofaRide1.jpg',
+    src: './BumperSofaRide1.jpg',
     alt: 'Backwater cruise surrounded by coconut trees',
   },
   {
     id: 4,
-    src: '/arch.jpg',
+    src: './arch.jpg',
     alt: 'Sunrise over Kerala tropical waterway',
   },
   {
     id: 5,
-    src: '/Mangrove-kayaking.jpg',
+    src: './Mangrove-kayaking.jpg',
     alt: 'Coracle ride experience in calm waters',
   },
   {
