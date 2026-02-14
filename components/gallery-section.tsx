@@ -35,7 +35,7 @@ import Image from 'next/image'
 const galleryImages = [
   {
     id: 1,
-    src: './hight.jpg',
+    src: './con1.png',
     alt: 'Kayaking in Kerala mangrove backwaters',
   },
   {
@@ -60,7 +60,7 @@ const galleryImages = [
   },
   {
     id: 6,
-    src: './stand.jpg',
+    src: './hq.png',
     alt: 'ATV off-road adventure near riverside',
   },
 ]
