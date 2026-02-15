@@ -10,6 +10,12 @@ export const metadata: Metadata = {
   title: 'MangroveSpot Adventures - Premium Eco-Adventure Kayaking & Water Sports',
   description: ' Kayaking, stand-up paddling, country boat rides, and coracle experiences through mangrove forests. Experience premium eco-tourism adventures in Varkala.',
   generator: 'Adarsh',
+  
+  icons: {
+    icon: './logo.png',
+    shortcut: './logo.png',
+    apple: './logo.png',
+  },
 }
 export default function RootLayout({
   children,
