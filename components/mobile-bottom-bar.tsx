@@ -29,7 +29,7 @@ export function MobileBottomBar() {
   const handleBooking = () => {
     const phoneNumber = "917561001268"
 
-    const message = `Hello Mangrove Sport Adventures 🌿
+    const message = `Hello Mangrove Spot Adventures 🌿
 
 I would like to make a booking.
 

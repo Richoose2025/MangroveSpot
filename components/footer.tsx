@@ -1,7 +1,8 @@
 'use client'
 
 import { Phone, MessageCircle, MapPin, Instagram, Mail, Globe } from 'lucide-react'
-
+import Link from 'next/link'
+import Image from 'next/image'
 export function Footer() {
   return (
     <footer className="bg-background border-t border-border">
@@ -11,9 +12,23 @@ export function Footer() {
 
           {/* Brand */}
           <div className="space-y-4">
-            <div className="text-2xl font-bold text-accent">
-              🌿 Mangrove Spot
-            </div>
+                      <Link href="/" className="flex items-center gap-3">
+            <Image
+              src="/logo.png"
+              alt="Mangrove Sport Logo"
+              width={45}
+              height={45}
+              priority
+            />
+            <Image
+  src="/text.svg"
+  alt="Mangrove Sport Logo"
+  width={150}
+  height={50}
+  priority
+/>
+
+          </Link>
             <p className="text-muted-foreground">
               Premium eco-adventure experiences in Nedungolam, Paravur, Kollam – Kerala.
             </p>

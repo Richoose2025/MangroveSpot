@@ -3,6 +3,7 @@
 import Image from 'next/image'
 import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
+import { Clock } from 'lucide-react'
 
 const activities = [
   {
@@ -137,7 +138,7 @@ export function ActivitiesSection() {
   const whatsappNumber = "917561001268"
 
   const handleWhatsAppBooking = (activityName) => {
-    const message = `Hello Mangrove Sport Adventures 🌿
+    const message = `Hello Mangrove Spot Adventures 🌿
 
 I would like to book the activity: ${activityName}
 
@@ -156,15 +157,31 @@ Please share more details.`
       <div className="max-w-7xl mx-auto px-4">
 
         {/* Title */}
-        <div className="text-center mb-16">
-          <h2 className="text-4xl font-bold text-white mb-4">
-            Our Adventures
-          </h2>
-          <p className="text-lg text-muted-foreground">
-            Choose from our premium eco-adventure experiences.
-            Price offers available only for early bookings.
-          </p>
-        </div>
+       {/* Title */}
+<div className="text-center mb-16">
+  <h2 className="text-4xl font-bold text-white mb-4">
+    Our Adventures
+  </h2>
+
+  <p className="text-lg text-muted-foreground mb-6">
+    Choose from our premium eco-adventure experiences.
+    Price offers available only for early bookings.
+  </p>
+
+  {/* Timing Box */}
+  <div className="flex justify-center">
+    <div className="bg-accent/10 border border-accent/30 px-6 py-3 rounded-xl">
+      <div className="flex items-center gap-2 text-accent font-semibold justify-center">
+        <Clock size={18} />
+         Timings: 6:30 AM – 5:00 PM
+      </div>
+      <div className="text-sm text-muted-foreground mt-1">
+        Closing Time: 6:30 PM
+      </div>
+    </div>
+  </div>
+</div>
+
 
         {/* Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 items-stretch">

@@ -11,9 +11,9 @@ export default function Home() {
   return (
     <main className="bg-background">
       <HeroSection />
-      <ActivitiesSection />
+       <ActivitiesSection /> 
       <WhyUsSection />
-      <GallerySection />
+       <GallerySection /> 
       <ReviewsSection />
       <CtaSection />
       <Footer />
