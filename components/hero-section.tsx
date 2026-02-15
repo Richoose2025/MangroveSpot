@@ -45,7 +45,7 @@ export function HeroSection() {
 
   /* ================= WHATSAPP ================= */
   const handleWhatsApp = () => {
-    const message = `Hello Mangrove Sport Adventures 🌿
+    const message = `Hello Mangrove Spot Adventures 🌿
 
 I would like to make a booking.
 
@@ -119,14 +119,14 @@ Please share more details.`
           <Link href="/" className="flex items-center gap-3">
             <Image
               src="./logo.png"
-              alt="Mangrove Sport Logo"
+              alt="Mangrove Spot Logo"
               width={45}
               height={45}
               priority
             />
             <Image
   src="./text.svg"
-  alt="Mangrove Sport Logo"
+  alt="Mangrove Spot Logo"
   width={150}
   height={50}
   priority
@@ -196,7 +196,7 @@ Please share more details.`
           <div className="space-y-6 max-w-3xl">
 
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white">
-              Explore the Mangrove Sport Adventures
+              Explore the Mangrove Spot Adventures
             </h1>
 
             <p className="text-lg sm:text-xl text-gray-200">

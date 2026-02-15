@@ -15,14 +15,14 @@ export function Footer() {
                       <Link href="/" className="flex items-center gap-3">
             <Image
               src="./logo.png"
-              alt="Mangrove Sport Logo"
+              alt="Mangrove Spot Logo"
               width={45}
               height={45}
               priority
             />
             <Image
   src="./text.svg"
-  alt="Mangrove Sport Logo"
+  alt="Mangrove Spot Logo"
   width={150}
   height={50}
   priority
