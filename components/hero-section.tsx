@@ -118,14 +118,14 @@ Please share more details.`
           {/* ===== LOGO ===== */}
           <Link href="/" className="flex items-center gap-3">
             <Image
-              src="/logo.png"
+              src="./logo.png"
               alt="Mangrove Sport Logo"
               width={45}
               height={45}
               priority
             />
             <Image
-  src="/text.svg"
+  src="./text.svg"
   alt="Mangrove Sport Logo"
   width={150}
   height={50}
@@ -185,7 +185,7 @@ Please share more details.`
             className="w-full h-full object-cover"
             poster="/bg1.png"
           >
-            <source src="/bg.mp4" type="video/mp4" />
+            <source src="./bg.mp4" type="video/mp4" />
           </video>
 
           <div className="absolute inset-0 bg-black/50"></div>

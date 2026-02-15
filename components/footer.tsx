@@ -14,14 +14,14 @@ export function Footer() {
           <div className="space-y-4">
                       <Link href="/" className="flex items-center gap-3">
             <Image
-              src="/logo.png"
+              src="./logo.png"
               alt="Mangrove Sport Logo"
               width={45}
               height={45}
               priority
             />
             <Image
-  src="/text.svg"
+  src="./text.svg"
   alt="Mangrove Sport Logo"
   width={150}
   height={50}
