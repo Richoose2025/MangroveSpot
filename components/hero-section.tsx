@@ -200,7 +200,7 @@ Please share more details.`
             </h1>
 
             <p className="text-lg sm:text-xl text-gray-200">
-              Kayaking • Country Boat Ride • Stand Up Paddle • Coracle Ride
+              Kayaking • Country Boat Ride • Stand Up Paddle • Coracle Ride • ATV Ride High • Speed Engine Boat Ride
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center pt-6">
