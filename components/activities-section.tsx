@@ -121,7 +121,7 @@ const activities = [
   },
   {
   id: 12,
-  name: 'Student Special Offer',
+  name: 'Students Special Offer',
   description:
     'Exclusive special offers and discounts available for school and college student groups.',
   duration: 'Group Booking',
