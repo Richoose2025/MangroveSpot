@@ -11,7 +11,6 @@ export const metadata: Metadata = {
   description: ' Kayaking, stand-up paddling, country boat rides, and coracle experiences through mangrove forests. Experience premium eco-tourism adventures in Varkala.',
   generator: 'Adarsh',
 }
-
 export default function RootLayout({
   children,
 }: Readonly<{
