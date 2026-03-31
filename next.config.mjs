@@ -1,4 +1,24 @@
 /** @type {import('next').NextConfig} */
+<<<<<<< HEAD
+=======
+// const nextConfig = {
+//   typescript: {
+//     ignoreBuildErrors: true,
+//   },
+//   images: {
+//     remotePatterns: [
+//       {
+//         protocol: 'https',
+//         hostname: 'images.unsplash.com',
+//       },
+//     ],
+//   },
+// }
+
+// export default nextConfig
+
+/** @type {import('next').NextConfig} */
+>>>>>>> 605fb0c0f67176e3797055ccfa02ad26b1b50622
 const nextConfig = {
   typescript: {
     ignoreBuildErrors: true,
@@ -11,7 +31,10 @@ const nextConfig = {
       },
     ],
   },
+<<<<<<< HEAD
 
+=======
+>>>>>>> 605fb0c0f67176e3797055ccfa02ad26b1b50622
   async redirects() {
     return [
       {
@@ -19,6 +42,7 @@ const nextConfig = {
         destination: '/',
         permanent: true,
       },
+<<<<<<< HEAD
       {
         source: '/kayaking',
         destination: '/',
@@ -67,3 +91,10 @@ const nextConfig = {
 }
 
 export default nextConfig
+=======
+    ];
+  },
+}
+
+export default nextConfig
+>>>>>>> 605fb0c0f67176e3797055ccfa02ad26b1b50622

@@ -7,6 +7,7 @@ const poppins = Poppins({ subsets: ['latin'], weight: ['400', '600', '700'] })
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
+<<<<<<< HEAD
   title: 'Mangrove Spot - Kayaking & Water Sports in Paravur | Near Varkala Kerala',
   description: 'Best kayaking & water sports in Paravur, Kollam — just 30 mins from Varkala. 10+ activities: kayaking, country boat, ATV, archery, rain dance & more. Group discounts available. Book on WhatsApp.',
   keywords: 'kayaking Paravur, water sports Varkala, kayaking near Varkala, backwater activities Kollam, adventure park Kerala, mangrove kayaking Kerala, Paravur water sports, kayaking Kollam',
@@ -31,13 +32,22 @@ export const metadata: Metadata = {
     canonical: 'https://www.mangrovespot.in',
   },
 
+=======
+  title: 'MangroveSpot Adventures - Premium Eco-Adventure Kayaking & Water Sports',
+  description: ' Kayaking, stand-up paddling, country boat rides, and coracle experiences through mangrove forests. Experience premium eco-tourism adventures in Varkala.',
+  generator: 'Adarsh',
+  
+>>>>>>> 605fb0c0f67176e3797055ccfa02ad26b1b50622
   icons: {
     icon: './logo.png',
     shortcut: './logo.png',
     apple: './logo.png',
   },
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 605fb0c0f67176e3797055ccfa02ad26b1b50622
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -48,4 +58,8 @@ export default function RootLayout({
       <body className="font-sans antialiased bg-background text-foreground">{children}</body>
     </html>
   )
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 605fb0c0f67176e3797055ccfa02ad26b1b50622
