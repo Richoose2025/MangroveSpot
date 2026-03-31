@@ -2,7 +2,6 @@
   "name": "my-project",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
   "scripts": {
     "dev": "next dev --turbo",
     "build": "next build",
@@ -10,16 +9,6 @@
     "lint": "next lint",
     "deploy": "gh-pages -d out"
   },
-=======
-"scripts": {
-  "dev": "next dev --turbo",
-  "build": "next build",
-  "start": "next start",
-  "lint": "next lint",
-  "deploy": "gh-pages -d out"
-}
-,
->>>>>>> 605fb0c0f67176e3797055ccfa02ad26b1b50622
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
     "@radix-ui/react-accordion": "1.2.2",
@@ -57,11 +46,7 @@
     "embla-carousel-react": "8.5.1",
     "input-otp": "1.4.1",
     "lucide-react": "^0.544.0",
-<<<<<<< HEAD
-    "next": "^16.2.1",
-=======
     "next": "16.1.6",
->>>>>>> 605fb0c0f67176e3797055ccfa02ad26b1b50622
     "next-themes": "^0.4.6",
     "react": "^18.3.1",
     "react-day-picker": "8.10.1",
