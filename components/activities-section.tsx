@@ -12,7 +12,7 @@ const activities = [
     description:
       'Explore the beautiful mangrove forest with a guided kayaking experience.',
     duration: '2 hours',
-    price: '₹400',
+    price: '₹500',
     priceNote: 'per person',
     image: './Mangrove-Kayaking.jpg',
     popular: true,
