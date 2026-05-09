@@ -48,6 +48,9 @@ const jsonLd = {
 
 export const metadata: Metadata = {
   title: 'Mangrove Spot - Kayaking & Water Sports in Paravur | Near Varkala Kerala',
+    verification: {
+    google: 'OQ3uw_ciG0KHgD-9_mJXGQ9HTgl_a9nJ6pMrGxnzlSU',
+  },
   description:
     'Best kayaking & water sports in Paravur, Kollam — just 30 mins from Varkala. 10+ activities: kayaking, country boat, ATV, archery, rain dance & more. Group discounts available. Book on WhatsApp.',
   keywords:
